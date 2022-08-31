@@ -4,15 +4,15 @@
 <h3 align="center">.</h3>
 
 
-- Currently learning *JavaScript, React, React Native, Typescript, ExpressJS, Firebase, MERN, MongoDB, NodeJS*
+- Currently learning *JavaScript*
 
-- 💬 Ask me about Front End Web Dvelopment, WordPress Websites, Graphic Designing, Digital Marketing and many more.
+- Ask me about Front End Web Dvelopment, WordPress Websites, Digital Marketing and many more.
 
-- 📫 You can reach me at *hashir.hali@gmail.com*
+- You can reach me at *hashir.hali@gmail.com*
 
-- ⚡ Fun fact : *“Experience is the name everyone gives to their mistakes.”* ~ Oscar Wilde
+<!--- ⚡ Fun fact : *“Experience is the name everyone gives to their mistakes.”* ~ Oscar Wilde-->
 
-- ✨ Inspiration : Difficult Roads Leads To Beautiful Destinations.
+- “Programming made the impossible possible. You can have a null object and a constant variable.” 
 
 <h3>Connect With Me 🔗:</h3>
 
