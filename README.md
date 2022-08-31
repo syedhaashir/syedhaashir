@@ -4,7 +4,7 @@
 <h3 align="center">.</h3>
 
 
-- 🌱 I’m currently learning *JavaScript, React, React Native, Typescript, ExpressJS, Firebase, MERN, MongoDB, NodeJS*
+- Currently learning *JavaScript, React, React Native, Typescript, ExpressJS, Firebase, MERN, MongoDB, NodeJS*
 
 - 💬 Ask me about Front End Web Dvelopment, WordPress Websites, Graphic Designing, Digital Marketing and many more.
 
