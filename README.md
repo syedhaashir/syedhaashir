@@ -1,11 +1,10 @@
-<!--**Saaim-K/Saaim-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <h1 align="center">Hello 🌏, I'm Hashir Ali</h1>
 <h3 align="center">“Programming made the impossible possible. You can have a null object and a constant variable.” 
 </h3>
 
 
-- Currently learning *JavaScript*
+- Currently learning *React*
 
 - Ask me about Front End Web Dvelopment, WordPress Websites, Digital Marketing and many more.
 
