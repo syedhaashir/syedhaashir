@@ -16,7 +16,7 @@
 <h3>Connect With Me 🔗:</h3>
 
 
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Saaim Khan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/syed-hashir-ali-7727931ab?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWmcSI%2B8CRP28EjDkxTSKdw%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Saaim Khan" height="30" width="40" /></a>
 <a href="https://codepen.io/saaim-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Saaim Khan" height="30" width="40" /></a>
 <a href="https://dev.to/saaimk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Saaim Khan" height="30" width="40" /></a>
 <a href="https://github.com/syedhaashir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Saaim Khan" height="30" width="40" /></a>
