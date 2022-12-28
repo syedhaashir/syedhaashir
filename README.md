@@ -22,7 +22,7 @@
 <a href="https://github.com/syedhaashir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Saaim Khan" height="30" width="40" /></a>
 <a href="https://fb.com/saaim.khan.1485537" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Saaim Khan" height="30" width="40" /></a>
 <a href="https://www.instagram.com/syed.haashir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Saaim Khan" height="30" width="40" /></a>
-<a href="https://www.snapchat.com/add/s.hali7?share_id=Oq5VMcSs4HA&locale=en-US" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="Saaim Khan" height="30" width="40" /></a><br>
+<br>
 
 <!--<h3 align="left">Languages and Tools ⚙️:</h3>
 <p align="left">
