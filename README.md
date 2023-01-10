@@ -20,46 +20,36 @@
 <a href="https://www.instagram.com/syed.haashir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Saaim Khan" height="30" width="40" /></a>
 <br>
 
+<p align="center">
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=syedhaashir&show_icons=true&theme=github_dark"/>
+<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedhaashir&layout=compact&theme=github_dark"/> 
+</p>
 
-<img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=syedhaashir&show_icons=true&theme=github_dark"/>
-<img align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedhaashir&layout=compact&theme=github_dark"/><br><br>
 
-<div>
-  <br><br><h3>I WORK ON</h3><br>
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗖</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗖#</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗦𝘂𝗯𝗹𝗶𝗺𝗲 𝗧𝗲𝘅𝘁 𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
+Here's my `Manifest.toml`:<br>
+
+```toml
+
+[personal]
+name = 'Hashir Ali'
+city = 'Karachi, Pakistan'
+email = 'hashir.hali@gmail.com'
+
+[professional]
+currently-employed = false
+studying = true
+degree = 'Computer Science'
+
+interests = [
+  'web-developement',
+  'linux',
+  'open-source',
+  'database',
+  'cyber-security'
+]
+
+programming-languages = [
+  'HTML',
+  'python',
+  'javascript'
+]
