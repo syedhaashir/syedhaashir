@@ -1,5 +1,6 @@
 
-<h1 align="center">Hello 🌏, I'm Hashir Ali</h1>
+<h1 align="center">Hello <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="27px">
+, I'm Hashir Ali</h1>
 <h3 align="center">“Programming made the impossible possible. You can have a null object and a constant variable.” 
 </h3>
 
@@ -17,14 +18,9 @@
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Hashir Ali" height="30" width="40" /></a>
 <a href="https://github.com/syedhaashir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Hashir Ali" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Hashir Ali" height="30" width="40" /></a>
-<a href="https://www.instagram.com/syed.haashir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Saaim Khan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/syed.haashir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Saaim Khan" height="30" width="40" /></a>  
+
 <br>
-
-<p align="center">
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=syedhaashir&show_icons=true&theme=github_dark"/>
-<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedhaashir&layout=compact&theme=github_dark"/> 
-</p>
-
 
 Here's my `Manifest.toml`:<br>
 
@@ -53,3 +49,10 @@ programming-languages = [
   'python',
   'javascript'
 ]
+```  
+<br>
+
+<p align="center">
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=syedhaashir&show_icons=true&theme=github_dark"/>
+<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedhaashir&layout=compact&theme=github_dark"/> 
+</p>
