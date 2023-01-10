@@ -68,7 +68,7 @@ programming-languages = [
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/hritik5102)](https://gitlab.com/hritik5102)  
 <br>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=syedhaashir.syedhaashir)
+![](https://visitor-badge.glitch.me/badge?page_id=syedhaashir)
 
 
 <p align="center">
