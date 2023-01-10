@@ -85,8 +85,9 @@
             alt="android" width="40" height="40" /> </a>
 </p>-->
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=syedhaashir&show_icons=true&theme=github_dark"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedhaashir&layout=compact&theme=github_dark"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedhaashir&layout=compact&theme=github_dark"/><br>
 
+## I WORK ON<br>
 <table>
   <tbody>
     <tr valign="top">
