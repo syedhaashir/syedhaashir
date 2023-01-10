@@ -14,16 +14,17 @@
 
 
 <a href="https://www.linkedin.com/in/syed-hashir-ali-7727931ab?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWmcSI%2B8CRP28EjDkxTSKdw%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hashir Ali" height="30" width="40" /></a>
-<a href="https://dev.to/saaimk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Saaim Khan" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Hashir Ali" height="30" width="40" /></a>
 <a href="https://github.com/syedhaashir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Hashir Ali" height="30" width="40" /></a>
-<a href="https://fb.com/saaim.khan.1485537" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Saaim Khan" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Hashir Ali" height="30" width="40" /></a>
 <a href="https://www.instagram.com/syed.haashir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Saaim Khan" height="30" width="40" /></a>
 <br>
 
 
 <img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=syedhaashir&show_icons=true&theme=github_dark"/>
-<img align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedhaashir&layout=compact&theme=github_dark"/><br><br><br>
+<img align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedhaashir&layout=compact&theme=github_dark"/><br><br>
 
+<div>
 ## I WORK ON<br>
 <table>
   <tbody>
@@ -61,3 +62,4 @@
     </tr>
   </tbody>
 </table>
+</div>
