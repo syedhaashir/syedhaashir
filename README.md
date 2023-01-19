@@ -73,5 +73,6 @@ programming-languages = [
 
 <p align="center">
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=syedhaashir&show_icons=true&theme=github_dark"/>
+
 <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedhaashir&layout=compact&theme=github_dark"/> 
 </p>
